@@ -5,3 +5,6 @@ The user may perform various operations such as follow a profile, unfollow a pro
 post their thoughts, like other's post, get a fed page which displays the posts posted by the accounts followed by the user. The user may also comment under the  posts.
 Every functionality is given as an API call which can invoked from the client side. This would help the freont end engineers to design the app effectively.
 
+In order to run the API, run "python server.py".
+In order to know about the API read the documentation in "Localhost:5000/api/docs". A detailed descriptions of response codes and input parameters for different methods is given in the documentation. The documentation was created using Swagger.
+
